@@ -1,6 +1,6 @@
 streamlit
 langchain
 pandas
-chromadb
+chromadb==0.3.29
 openai
 tiktoken
