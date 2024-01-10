@@ -12,3 +12,4 @@ Extracts the structured data and retrieves offers related to user's query based 
    By default the query mentioned in script is "**amazon**". Be sure to add your openapi-key in the script.
 
 5. Finally run the UI tool based on streamlit by "**streamlit run streamlit-app_main_file.py**".
+6. Application link: https://retail-intelligent-search-tool.streamlit.app/ 
